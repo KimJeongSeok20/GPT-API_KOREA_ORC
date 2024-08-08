@@ -4,3 +4,5 @@ https://github.com/yunwoong7/korean_ocr_using_pororo
 pip install openai
 ```
 
+Test File : ChatGPT_API_EXAMPLE.py
+
